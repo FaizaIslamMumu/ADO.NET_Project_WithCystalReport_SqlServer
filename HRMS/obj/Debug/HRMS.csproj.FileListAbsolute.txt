@@ -1,0 +1,35 @@
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.exe.config
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.exe
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.pdb
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Form1.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.GenerateResource.cache
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.exe
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.pdb
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.HOME.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Employees.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.ADVANCE.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.ATTENDENCE.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.BONUS.resources
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\payRollDB.mdf
+E:\C# R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\payRollDB_log.ldf
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\payRollDB.mdf
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\payRollDB_log.ldf
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.exe.config
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.exe
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\bin\Debug\HRMS.pdb
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.SuggestedBindingRedirects.cache
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.ADVANCE.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.ATTENDENCE.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.BONUS.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Employees.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Form1.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.HOME.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.GenerateResource.cache
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.exe
+F:\C_#_R_51\XML_ADO_Crystal_Report\Project_Ado.net_Crystal_Report_sql_c#\Human_Resource_Management_System_CS_ADO.NET_SQL_SERVER\HRMS\obj\Debug\HRMS.pdb
